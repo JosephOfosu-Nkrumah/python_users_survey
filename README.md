@@ -5,3 +5,8 @@ The table is shown below:
 
 
 ![](https://github.com/JosephOfosu-Nkrumah/python_users_survey/blob/main/Table.png)
+
+The graph below represents the chart on python users survey:
+
+
+![](https://github.com/JosephOfosu-Nkrumah/python_users_survey/blob/main/Survey%20of%20Python%20Users%20(2012%20-%202019).png)
